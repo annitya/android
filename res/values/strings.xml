@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hello world</string>
+    <string name="heading">HallaBallah!</string>
+    <string name="back">Tilbake</string>
+    <string name="fetch">Fetch</string>
+</resources>
